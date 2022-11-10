@@ -1,0 +1,37 @@
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\appsettings.Development.json
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\appsettings.json
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PDF Generate.exe
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PDF Generate.deps.json
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PDF Generate.runtimeconfig.json
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PDF Generate.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PDF Generate.pdb
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.csproj.AssemblyReference.cache
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.AssemblyInfoInputs.cache
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.AssemblyInfo.cs
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.csproj.CoreCompileInputs.cache
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.MvcApplicationPartsAssemblyInfo.cs
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\staticwebassets.build.json
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\staticwebassets.development.json
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\scopedcss\bundle\PDF Generate.styles.css
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.csproj.CopyComplete
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\refint\PDF Generate.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.pdb
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\PDF Generate.genruntimeconfig.cache
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\obj\Debug\net6.0\ref\PDF Generate.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PdfSharp.Charting.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PdfSharp.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\PdfSharpCore.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\HtmlRenderer.Core.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\HtmlRenderer.PdfSharp.Core.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\SixLabors.Core.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\SixLabors.Fonts.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+E:\Asp.net Webapi Learning in Udamey\WebApi_Learning\PDF Generate\PDF Generate\bin\Debug\net6.0\de\PdfSharp.resources.dll
